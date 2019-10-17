@@ -1,0 +1,59 @@
+{
+  "title": "Software Engineer",
+  "summary": "I'm passionate about Computer Software development, looking always for different and most efficient solutions to daily problems of clients. Always growing as a person and as a co worker, looking always to give my best for the company I'm working with.",
+  "studies": [
+    {
+      "institute": "Helsinki Business College",
+      "logo": "./bclogo.jpeg",
+      "url": "https://www.bc.fi",
+      "title": "Vocational Degree in Communication Technology",
+      "durationInYears": "1.5",
+      "graduationYear": 2020
+    },
+    {
+      "institute": "Hanken School of Economics ",
+      "logo": "./hankenlogo.png",
+      "url": "https://www.hanken.fi/en",
+      "title": "Masters in Advance Financial Information System",
+      "durationInYears": "4",
+      "graduationYear": 2011
+    }
+  ],
+  "certifications": [
+    {
+      "logo": "/accalogo.jpeg",
+      "url": "https://www.accaglobal.com/gb/en.html",
+      "title": "Chartered Certified Accountant - Affiliate",
+      "issuer": "ACCA",
+      "issueDate": "2018-10-01",
+      "expiryDate": "Subject to Continuous Professional Development",
+      "verificationLink": "https://www.accaglobal.com/gb/en.html"
+    }
+    
+  ],
+  "experiences": [
+    {
+      "companyName": "NO Related Corporate Coding Experience at Momemt",
+      "logo": "",
+      "url": "",
+      "roles": [
+        {
+          "title": "",
+          "description": "",
+          "startDate": "",
+          "currentJob": true,
+          "location": ""
+        },
+        {
+          "title": "",
+          "description": "",
+          "startDate": "",
+          "endDate": "",
+          "location": ""
+        }
+      ]
+    }
+    
+  
+  ]
+}
