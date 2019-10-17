@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/akeundo.github.io/static/css/main.05c5c804.chunk.css",
-    "main.js": "/akeundo.github.io/static/js/main.57bbfe3b.chunk.js",
-    "main.js.map": "/akeundo.github.io/static/js/main.57bbfe3b.chunk.js.map",
-    "runtime-main.js": "/akeundo.github.io/static/js/runtime-main.f58ac12f.js",
-    "runtime-main.js.map": "/akeundo.github.io/static/js/runtime-main.f58ac12f.js.map",
-    "static/css/2.510409cd.chunk.css": "/akeundo.github.io/static/css/2.510409cd.chunk.css",
-    "static/js/2.2098a273.chunk.js": "/akeundo.github.io/static/js/2.2098a273.chunk.js",
-    "static/js/2.2098a273.chunk.js.map": "/akeundo.github.io/static/js/2.2098a273.chunk.js.map",
-    "index.html": "/akeundo.github.io/index.html",
-    "precache-manifest.9e9f0b5903d6a1850fb57655d642c8fa.js": "/akeundo.github.io/precache-manifest.9e9f0b5903d6a1850fb57655d642c8fa.js",
-    "service-worker.js": "/akeundo.github.io/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/akeundo.github.io/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.05c5c804.chunk.css.map": "/akeundo.github.io/static/css/main.05c5c804.chunk.css.map",
-    "static/media/App.css": "/akeundo.github.io/static/media/hero.6e09f410.jpg",
-    "static/media/profilePic.jpg": "/akeundo.github.io/static/media/profilePic.84683f05.jpg"
+    "main.css": "/akeundo/static/css/main.d581aa22.chunk.css",
+    "main.js": "/akeundo/static/js/main.80c485b0.chunk.js",
+    "main.js.map": "/akeundo/static/js/main.80c485b0.chunk.js.map",
+    "runtime-main.js": "/akeundo/static/js/runtime-main.da97b698.js",
+    "runtime-main.js.map": "/akeundo/static/js/runtime-main.da97b698.js.map",
+    "static/css/2.510409cd.chunk.css": "/akeundo/static/css/2.510409cd.chunk.css",
+    "static/js/2.2098a273.chunk.js": "/akeundo/static/js/2.2098a273.chunk.js",
+    "static/js/2.2098a273.chunk.js.map": "/akeundo/static/js/2.2098a273.chunk.js.map",
+    "index.html": "/akeundo/index.html",
+    "precache-manifest.d4c207d6bae01b136d6b3b5e72c92628.js": "/akeundo/precache-manifest.d4c207d6bae01b136d6b3b5e72c92628.js",
+    "service-worker.js": "/akeundo/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/akeundo/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.d581aa22.chunk.css.map": "/akeundo/static/css/main.d581aa22.chunk.css.map",
+    "static/media/App.css": "/akeundo/static/media/hero.6e09f410.jpg",
+    "static/media/profilePic.jpg": "/akeundo/static/media/profilePic.84683f05.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f58ac12f.js",
+    "static/js/runtime-main.da97b698.js",
     "static/css/2.510409cd.chunk.css",
     "static/js/2.2098a273.chunk.js",
-    "static/css/main.05c5c804.chunk.css",
-    "static/js/main.57bbfe3b.chunk.js"
+    "static/css/main.d581aa22.chunk.css",
+    "static/js/main.80c485b0.chunk.js"
   ]
 }
