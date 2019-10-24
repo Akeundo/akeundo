@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee467bd1af8b6841b098b7ab8efa920c",
+    "revision": "47cd9caee1286f0373829a4bb0d1c807",
     "url": "/akeundo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/akeundo/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "740147780001996a924a",
+    "revision": "3142ff1a1ff00161b12d",
     "url": "/akeundo/static/css/main.d581aa22.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/akeundo/static/js/2.2098a273.chunk.js"
   },
   {
-    "revision": "740147780001996a924a",
-    "url": "/akeundo/static/js/main.80c485b0.chunk.js"
+    "revision": "3142ff1a1ff00161b12d",
+    "url": "/akeundo/static/js/main.9be91ff8.chunk.js"
   },
   {
     "revision": "abeacabda53e70673725",
